@@ -1,8 +1,8 @@
-# This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
+# This is a basic CRUD app built using Sveltekit from Brad Traversy's crash course: https://www.youtube.com/watch?v=3TVy6GdtNuQ&t=7s
 
 ---
 
-# svelte app
+# from svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
