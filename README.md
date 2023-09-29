@@ -1,4 +1,6 @@
-# This is a basic CRUD app built using Sveltekit and Brad Traversy's crash course: https://www.youtube.com/watch?v=3TVy6GdtNuQ&t=7s
+#Overview 
+
+This is a basic CRUD app built using Sveltekit and Brad Traversy's crash course: https://www.youtube.com/watch?v=3TVy6GdtNuQ&t=7s
 
 ---
 
